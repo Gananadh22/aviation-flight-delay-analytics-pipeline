@@ -1,0 +1,12 @@
+# Dataset
+
+Source: Kaggle - US Flights 2015 Dataset
+
+Key Columns:
+- ARRIVAL_DELAY
+- DEPARTURE_DELAY
+- CANCELLED
+- DIVERTED
+- AIRLINE
+- ORIGIN_AIRPORT
+- DESTINATION_AIRPORT
